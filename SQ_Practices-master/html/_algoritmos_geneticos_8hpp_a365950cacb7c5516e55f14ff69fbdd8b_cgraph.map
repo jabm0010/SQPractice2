@@ -1,0 +1,11 @@
+<map id="geneticoGeneracional" name="geneticoGeneracional">
+<area shape="rect" id="node2" href="$class_poblacion.html#ac2da4f2029e8f6e9a197cecdb9606d02" title="Check if the population has at least a 20% of different individuals. " alt="" coords="225,8,452,34"/>
+<area shape="rect" id="node3" href="$class_poblacion.html#ab883baa9ffff1c64095df224be2b869a" title="Evolves population using a generational model. " alt="" coords="217,58,460,85"/>
+<area shape="rect" id="node8" href="$class_especimen.html#a9f84cb7058610d42407a4cbb09fa80dd" title="Getter of the totalInterference attribute. " alt="" coords="508,197,709,224"/>
+<area shape="rect" id="node9" href="$class_poblacion.html#a83d7106771d3ee4101c09066d1280737" title="Gets the best individual of the population. " alt="" coords="263,160,414,186"/>
+<area shape="rect" id="node10" href="$class_poblacion.html#a3ff744131b182648a9325233fa141c9f" title="Reinit population preserving the best previous individual. " alt="" coords="254,210,423,237"/>
+<area shape="rect" id="node4" href="$_random_8cpp.html#a27089f63a64c65d1590298a5d3a6634f" title="Generates an integer within a range between two numbers(int) being both included. ..." alt="" coords="757,58,872,85"/>
+<area shape="rect" id="node5" href="$_especimen_8cpp.html#afa0a49ff72068ddd440b082ae595005c" title="BLX cross algorithm, changes the frequency of the individuals by an intermediate value obtained by th..." alt="" coords="569,33,648,60"/>
+<area shape="rect" id="node6" href="$_especimen_8cpp.html#a30b327037a27c426b80d094b2b1476fc" title="Cross in two points algorithm, exchanges the fragments of the two vectors delimited by the points min..." alt="" coords="554,84,663,110"/>
+<area shape="rect" id="node7" href="$_especimen_8cpp.html#ab95410dc10d5f38cc4359d1fb2116e7d" title="Mutates the frequencies of an individual randomly. " alt="" coords="578,134,639,161"/>
+</map>

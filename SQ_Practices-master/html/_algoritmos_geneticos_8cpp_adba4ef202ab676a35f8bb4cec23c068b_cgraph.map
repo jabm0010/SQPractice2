@@ -1,0 +1,20 @@
+<map id="am1001" name="am1001">
+<area shape="rect" id="node2" href="$class_poblacion.html#a8189a6cc24cfbfb0d3cebbfd234d7a90" title="Updates the best candidate of the population. " alt="" coords="128,157,321,184"/>
+<area shape="rect" id="node3" href="$_algoritmos_geneticos_8cpp.html#a395691afb70f651e64e8cb8343ef9fd7" title="Lineal search in an specific element of the population. " alt="" coords="429,183,553,209"/>
+<area shape="rect" id="node5" href="$_random_8cpp.html#a27089f63a64c65d1590298a5d3a6634f" title="Generates an integer within a range between two numbers(int) being both included. ..." alt="" coords="941,436,1056,463"/>
+<area shape="rect" id="node9" href="$class_especimen.html#a9f84cb7058610d42407a4cbb09fa80dd" title="Getter of the totalInterference attribute. " alt="" coords="660,309,861,336"/>
+<area shape="rect" id="node12" href="$_algoritmos_geneticos_8cpp.html#a365950cacb7c5516e55f14ff69fbdd8b" title="Generational genetic algorithm with elitism. " alt="" coords="143,385,307,412"/>
+<area shape="rect" id="node13" href="$class_poblacion.html#a83d7106771d3ee4101c09066d1280737" title="Gets the best individual of the population. " alt="" coords="415,512,566,539"/>
+<area shape="rect" id="node18" href="$class_poblacion.html#a3ff744131b182648a9325233fa141c9f" title="Reinit population preserving the best previous individual. " alt="" coords="406,309,575,336"/>
+<area shape="rect" id="node4" href="$class_especimen.html#a0318bef7a47bb900ec2dff9ca07ab740" title="Getter of the size of the data structure in which the transistors of the individual are stored..." alt="" coords="686,56,835,83"/>
+<area shape="rect" id="node6" href="$class_especimen.html#aa9a6b325c25cd3620d0097573c996786" title="Getter of the frequencies range. " alt="" coords="665,157,856,184"/>
+<area shape="rect" id="node7" href="$class_especimen.html#adafd385909bf0c50a7a47b56a80574b2" title="Calculates the interference that would result as a change in a frequency. " alt="" coords="685,5,836,32"/>
+<area shape="rect" id="node10" href="$class_especimen.html#a069f88d12bc8279b1ba55be7766fee34" title="Increases the values of the frequency of the selected transistor. " alt="" coords="691,107,831,133"/>
+<area shape="rect" id="node11" href="$class_especimen.html#a19bd1cfb86311a0df112d667f2a85e9a" title="Calculates the total sum of the interferences of the frequencies. " alt="" coords="681,208,840,235"/>
+<area shape="rect" id="node8" href="$class_especimen.html#a4217d9a2fa42490b991ce288b896e537" title="Calculates the cost that a transistor adds to the total. " alt="" coords="909,56,1088,83"/>
+<area shape="rect" id="node14" href="$class_poblacion.html#ab883baa9ffff1c64095df224be2b869a" title="Evolves population using a generational model. " alt="" coords="369,411,612,437"/>
+<area shape="rect" id="node19" href="$class_poblacion.html#ac2da4f2029e8f6e9a197cecdb9606d02" title="Check if the population has at least a 20% of different individuals. " alt="" coords="377,461,604,488"/>
+<area shape="rect" id="node15" href="$_especimen_8cpp.html#afa0a49ff72068ddd440b082ae595005c" title="BLX cross algorithm, changes the frequency of the individuals by an intermediate value obtained by th..." alt="" coords="721,360,800,387"/>
+<area shape="rect" id="node16" href="$_especimen_8cpp.html#a30b327037a27c426b80d094b2b1476fc" title="Cross in two points algorithm, exchanges the fragments of the two vectors delimited by the points min..." alt="" coords="706,411,815,437"/>
+<area shape="rect" id="node17" href="$_especimen_8cpp.html#ab95410dc10d5f38cc4359d1fb2116e7d" title="Mutates the frequencies of an individual randomly. " alt="" coords="730,461,791,488"/>
+</map>

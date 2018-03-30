@@ -1,0 +1,10 @@
+<map id="busquedaLineal" name="busquedaLineal">
+<area shape="rect" id="node2" href="$class_especimen.html#a19bd1cfb86311a0df112d667f2a85e9a" title="Calculates the total sum of the interferences of the frequencies. " alt="" coords="199,5,357,32"/>
+<area shape="rect" id="node3" href="$class_especimen.html#aa9a6b325c25cd3620d0097573c996786" title="Getter of the frequencies range. " alt="" coords="183,56,373,83"/>
+<area shape="rect" id="node4" href="$class_especimen.html#a9f84cb7058610d42407a4cbb09fa80dd" title="Getter of the totalInterference attribute. " alt="" coords="177,107,379,133"/>
+<area shape="rect" id="node5" href="$_random_8cpp.html#a27089f63a64c65d1590298a5d3a6634f" title="Generates an integer within a range between two numbers(int) being both included. ..." alt="" coords="221,157,335,184"/>
+<area shape="rect" id="node6" href="$class_especimen.html#a0318bef7a47bb900ec2dff9ca07ab740" title="Getter of the size of the data structure in which the transistors of the individual are stored..." alt="" coords="203,208,353,235"/>
+<area shape="rect" id="node7" href="$class_especimen.html#adafd385909bf0c50a7a47b56a80574b2" title="Calculates the interference that would result as a change in a frequency. " alt="" coords="203,259,353,285"/>
+<area shape="rect" id="node9" href="$class_especimen.html#a069f88d12bc8279b1ba55be7766fee34" title="Increases the values of the frequency of the selected transistor. " alt="" coords="208,309,348,336"/>
+<area shape="rect" id="node8" href="$class_especimen.html#a4217d9a2fa42490b991ce288b896e537" title="Calculates the cost that a transistor adds to the total. " alt="" coords="427,284,605,311"/>
+</map>

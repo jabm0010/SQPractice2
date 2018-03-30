@@ -1,0 +1,4 @@
+<map id="Transistor::getRandFrec" name="Transistor::getRandFrec">
+<area shape="rect" id="node2" href="$class_transistor.html#a412454c62abf00b4cd1d404bbca3168f" title="Gets the number of different frequencies a transistor has. " alt="" coords="227,5,409,32"/>
+<area shape="rect" id="node3" href="$_random_8cpp.html#a27089f63a64c65d1590298a5d3a6634f" title="Generates an integer within a range between two numbers(int) being both included. ..." alt="" coords="261,56,375,83"/>
+</map>

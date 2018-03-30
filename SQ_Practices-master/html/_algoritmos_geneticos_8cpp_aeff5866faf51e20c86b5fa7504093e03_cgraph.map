@@ -1,0 +1,13 @@
+<map id="geneticoEstacionario" name="geneticoEstacionario">
+<area shape="rect" id="node2" href="$class_poblacion.html#ac2da4f2029e8f6e9a197cecdb9606d02" title="Check if the population has at least a 20% of different individuals. " alt="" coords="217,23,443,50"/>
+<area shape="rect" id="node3" href="$class_poblacion.html#aaff15a857d184292a0dc24246b0f8296" title="Evolves population using a steady one model. " alt="" coords="212,74,448,100"/>
+<area shape="rect" id="node8" href="$class_especimen.html#a9f84cb7058610d42407a4cbb09fa80dd" title="Getter of the totalInterference attribute. " alt="" coords="496,200,697,227"/>
+<area shape="rect" id="node9" href="$class_poblacion.html#a83d7106771d3ee4101c09066d1280737" title="Gets the best individual of the population. " alt="" coords="255,175,405,202"/>
+<area shape="rect" id="node10" href="$class_poblacion.html#aed93e35a79bb919656e8d2bf695e7b33" title="Generates and establish the individuals of a population by a greedy algorithm. " alt="" coords="232,276,428,303"/>
+<area shape="rect" id="node12" href="$class_poblacion.html#a3ff744131b182648a9325233fa141c9f" title="Reinit population preserving the best previous individual. " alt="" coords="245,226,415,252"/>
+<area shape="rect" id="node4" href="$_random_8cpp.html#a27089f63a64c65d1590298a5d3a6634f" title="Generates an integer within a range between two numbers(int) being both included. ..." alt="" coords="745,62,860,88"/>
+<area shape="rect" id="node5" href="$_especimen_8cpp.html#afa0a49ff72068ddd440b082ae595005c" title="BLX cross algorithm, changes the frequency of the individuals by an intermediate value obtained by th..." alt="" coords="557,36,636,63"/>
+<area shape="rect" id="node6" href="$_especimen_8cpp.html#a30b327037a27c426b80d094b2b1476fc" title="Cross in two points algorithm, exchanges the fragments of the two vectors delimited by the points min..." alt="" coords="542,87,651,114"/>
+<area shape="rect" id="node7" href="$_especimen_8cpp.html#ab95410dc10d5f38cc4359d1fb2116e7d" title="Mutates the frequencies of an individual randomly. " alt="" coords="566,138,627,164"/>
+<area shape="rect" id="node11" href="$class_poblacion.html#a8189a6cc24cfbfb0d3cebbfd234d7a90" title="Updates the best candidate of the population. " alt="" coords="500,276,693,303"/>
+</map>
